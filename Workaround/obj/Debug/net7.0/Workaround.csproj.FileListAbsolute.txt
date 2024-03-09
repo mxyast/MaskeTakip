@@ -1,0 +1,5 @@
+C:\Tobeto\1A\iyiProgramcıSerisi\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.csproj.AssemblyReference.cache
+C:\Tobeto\1A\iyiProgramcıSerisi\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\iyiProgramcıSerisi\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.AssemblyInfoInputs.cache
+C:\Tobeto\1A\iyiProgramcıSerisi\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.AssemblyInfo.cs
+C:\Tobeto\1A\iyiProgramcıSerisi\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.csproj.CoreCompileInputs.cache
